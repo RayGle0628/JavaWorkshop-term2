@@ -7,7 +7,11 @@ import static org.junit.jupiter.api.Assertions.*;
 
 /**
   @author
+<<<<<<< HEAD
  *  <>
+=======
+ *  <RayGle>
+>>>>>>> 9ec21a99c7f4725034966f036f862cef1c5609d3
  * This class contains the test cases for Worksheet1 solutions.
  *  <WRITE YOUR TEST CASES BELOW>
  */

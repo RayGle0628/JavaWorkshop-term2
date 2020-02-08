@@ -2,7 +2,11 @@ import javax.lang.model.util.ElementScanner6;
 import java.lang.annotation.ElementType;
 
 /**
+<<<<<<< HEAD
  * @author <> This class contains the solution for Worksheet1
+=======
+ * @author <RayGle> This class contains the solution for Worksheet1
+>>>>>>> 9ec21a99c7f4725034966f036f862cef1c5609d3
  */
 
  public class Worksheet1 {

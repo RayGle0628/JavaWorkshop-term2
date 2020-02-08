@@ -2,7 +2,11 @@ import javax.print.DocFlavor;
 import java.lang.annotation.ElementType;
 
 /**
+<<<<<<< HEAD
  * @author <>
+=======
+ * @author <RayGle>
+>>>>>>> 9ec21a99c7f4725034966f036f862cef1c5609d3
  * This class contains the solution for Worksheet2
  */
 
