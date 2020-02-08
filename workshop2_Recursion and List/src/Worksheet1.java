@@ -2,7 +2,7 @@ import javax.lang.model.util.ElementScanner6;
 import java.lang.annotation.ElementType;
 
 /**
- * @author <MINGRUI LI> This class contains the solution for Worksheet1
+ * @author <RayGle> This class contains the solution for Worksheet1
  */
 
  public class Worksheet1 {
