@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 /**
   @author
- *  <Mingrui Li>
+ *  <>
  * This class contains the test cases for Worksheet1 solutions.
  *  <WRITE YOUR TEST CASES BELOW>
  */
