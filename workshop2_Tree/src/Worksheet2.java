@@ -2,7 +2,7 @@ import javax.print.DocFlavor;
 import java.lang.annotation.ElementType;
 
 /**
- * @author <Mingrui Li>
+ * @author <RayGle>
  * This class contains the solution for Worksheet2
  */
 
