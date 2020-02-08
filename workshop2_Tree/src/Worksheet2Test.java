@@ -2,7 +2,7 @@ import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.*;
 
 /** @author
- *  <MINGRUI LI>
+ *  <RayGle>
  * This class contains the test cases for Worksheet2 solutions.
  *  <WRITE YOUR TEST CASES BELOW>
  */
