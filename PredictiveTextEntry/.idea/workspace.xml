@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3279b467-3397-4ec0-9a4b-6ff8b4bb0f0b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XefdeVQMC9TQ8eUJBrGSzZ1ftL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="D:/Android SDK" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FinalProject" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="predictive" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Worksheet3Test">
+    <configuration name="Worksheet3Test" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PredictiveTextEntry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="predictive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="predictive" />
+      <option name="MAIN_CLASS_NAME" value="predictive.Worksheet3Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapDictionary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predictive.MapDictionary" />
+      <module name="PredictiveTextEntry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="predictive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sigs2WordsProto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predictive.Sigs2WordsProto" />
+      <module name="PredictiveTextEntry" />
+      <option name="PROGRAM_PARAMETERS" value="4663" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="predictive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Words2SigProto" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predictive.Words2SigProto" />
+      <module name="PredictiveTextEntry" />
+      <option name="PROGRAM_PARAMETERS" value="Hello World! this is the input" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="predictive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Worksheet3Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PredictiveTextEntry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="predictive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="predictive" />
+      <option name="MAIN_CLASS_NAME" value="predictive.Worksheet3Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Worksheet3Test.treetest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PredictiveTextEntry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="predictive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="predictive" />
+      <option name="MAIN_CLASS_NAME" value="predictive.Worksheet3Test" />
+      <option name="METHOD_NAME" value="treetest2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Android JUnit.Worksheet3Test" />
+      <item itemvalue="Application.Words2SigProto" />
+      <item itemvalue="Application.Sigs2WordsProto" />
+      <item itemvalue="Application.MapDictionary" />
+      <item itemvalue="JUnit.Worksheet3Test" />
+      <item itemvalue="JUnit.Worksheet3Test.treetest2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Worksheet3Test" />
+        <item itemvalue="Application.MapDictionary" />
+        <item itemvalue="Android JUnit.Worksheet3Test" />
+        <item itemvalue="JUnit.Worksheet3Test.treetest2" />
+        <item itemvalue="Application.Sigs2WordsProto" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3279b467-3397-4ec0-9a4b-6ff8b4bb0f0b" name="Default Changelist" comment="" />
+      <created>1581170904877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581170904877</updated>
+      <workItem from="1581170910565" duration="6857000" />
+      <workItem from="1581258226296" duration="8091000" />
+      <workItem from="1581353087782" duration="112000" />
+      <workItem from="1581411573480" duration="2068000" />
+      <workItem from="1581428755883" duration="415000" />
+      <workItem from="1581440791576" duration="2281000" />
+      <workItem from="1581449605849" duration="237000" />
+      <workItem from="1581450417159" duration="1686000" />
+      <workItem from="1581452142015" duration="187000" />
+      <workItem from="1581453619972" duration="83000" />
+      <workItem from="1581501731261" duration="39000" />
+      <workItem from="1581501800108" duration="63000" />
+      <workItem from="1581526284178" duration="216000" />
+      <workItem from="1581671542659" duration="11633000" />
+      <workItem from="1581703340029" duration="71000" />
+      <workItem from="1582038532917" duration="1739000" />
+      <workItem from="1582054870302" duration="3276000" />
+      <workItem from="1582104170882" duration="2740000" />
+      <workItem from="1582276444406" duration="598000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581452070627">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1581452070627" />
+    <state x="446" y="51" key="#com.intellij.ide.util.MemberChooser" timestamp="1581686923359">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="51" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1581686923359" />
+    <state x="421" y="79" key="FileChooserDialogImpl" timestamp="1582277006482">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="79" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1582277006482" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1582106922963">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582106922963" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1582106922963">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1582106922963" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1582106922963">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1582106922963" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1582106922963">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1582106922963" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1581703412197">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1581703412197" />
+    <state x="396" y="185" key="cloudConfig.PluginsDialog" timestamp="1581411708247">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="396" y="185" key="cloudConfig.PluginsDialog/0.0.1280.680@0.0.1280.680" timestamp="1581411708247" />
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1582276503440">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1582276503440" />
+    <state x="383" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1582059908729">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="383" y="0" key="refactoring.ChangeSignatureDialog/0.0.1280.680@0.0.1280.680" timestamp="1582059908729" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1581689681894">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1581689681894" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
